@@ -1,0 +1,22 @@
+Package: WikiTests
+Title: Wiki scan, parsing and analysis
+Version: 0.0.0.9000
+Authors@R: person("Jonathan", "Sobel",role =c("aut","cre"), email = "jsobel83@gmail.com")
+Description: Provides several function to retrieve histoy and trends of english wikipedia
+Depends: R (>= 3.5.0)
+License: Cc-by-sa-4.0|Jonathan Sobel
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports:
+    XML,
+    dplyr,
+    reshape,
+    lubridate,
+    httr,
+    jsonlite,
+    curl,
+    ggplot2,
+    reshape2
+URL: https://github.com/jsobel1/WikiTests
+BugReports: https://github.com/jsobel1/WikiTests/issues
