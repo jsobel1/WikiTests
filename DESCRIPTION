@@ -2,7 +2,7 @@ Package: WikiTests
 Title: Wiki scan, parsing and analysis
 Version: 0.0.0.9000
 Authors@R: person("Jonathan", "Sobel",role =c("aut","cre"), email = "jsobel83@gmail.com")
-Description: Provides several function to retrieve histoy and trends of english wikipedia
+Description: Provides several function to retrieve history and trends of english wikipedia
 Depends: R (>= 3.5.0)
 License: Cc-by-sa-4.0|Jonathan Sobel
 Encoding: UTF-8
